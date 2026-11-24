@@ -6,6 +6,7 @@ GitHub Pages로 공개되는 BoardVerse 공식 페이지입니다.
 - 장기 개인정보처리방침: https://boardversegames.github.io/janggi/privacy/ (`janggi/privacy/index.html`, 그림·스타일은 `assets/`)
 - 체스 개인정보처리방침: https://boardversegames.github.io/chess/privacy/ (`chess/privacy/index.html`, 스타일은 맨 위 `style.css`)
 - `/app-ads.txt`: AdMob 인증용 (플레이 스토어 개발자 웹사이트를 이 사이트 주소로 둘 것)
+- `/google24625ade64330531.html`: Google Search Console 사이트 소유 확인 파일. **지우거나 이름·내용을 바꾸지 말 것** (지우면 확인이 풀림)
 
 ## 규칙
 
